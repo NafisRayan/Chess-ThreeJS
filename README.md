@@ -16,15 +16,7 @@ Game available on: https://chess-3d-mja9.vercel.app/
 ## Useful commands
 
 ```
-// run the application on development mode
-npm run start:dev
+npm i
 
-// build application for development
-npm run build:dev
-
-// build application for production
-npm run build:prod
-
-// run the application in production mode
-npm run start
+npm start
 ```
